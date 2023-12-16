@@ -13,9 +13,7 @@
 
 <br />
 
-### Demo Screeshots
 
-![Barber Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
